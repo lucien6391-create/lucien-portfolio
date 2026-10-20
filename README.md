@@ -1,10 +1,11 @@
-# Lucien Portfolio V4.13 預覽
+# Lucien Portfolio V4.14 預覽
 
-基於 V4.12 僅調整以下項目：
+在 V4.13 基礎上新增獨立 AI WORKFLOW 章節，並於導覽列新增 AI 工作流入口。
 
-1. 首頁右側頭像區改用使用者提供的工作照片 `assets/lucien-portrait.webp`，移除預留字樣。
-2. 作品區內容外緣對齊首頁的檔案紙張外緣，其他 `.section` 也採一致內容寬度。
-3. SAVELOG 三張 App 截圖取消背景灰框與描邊，以圖片本身呈現圓角，並加寬截圖所在欄位。
-4. 保留原有文字、三項代表案例以及結尾「歡迎聯繫。」。
+保留 V4.13 的三項作品、個人照片、SAVELOG 截圖、工作經歷、HOW I WORK 與 Contact。
 
-本版本未自動部署至 GitHub Pages。
+新增內容區分 CLAUDE.md（專案規範）、AGENTS.md（工程原則）、Skills（特定任務指引）與 GitHub（開源研究）。
+
+已知限制：尚無量化 Token 節省與效率指標，不將外部 Ponytail 方法宣稱為個人原創。
+
+離線預覽：解壓縮後開啟 index.html。未部署到 GitHub。
